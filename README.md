@@ -27,5 +27,5 @@ I Have Been A Bug Squasher At Discord-Testers For Lot Of Months.
 * Get One Warning For Approving Improper Bug Report 😭
 * Get Kicked From Focus Test For OffTopics 😭
 
-### Join Dicord-Testers
+### Join Discord-Testers
 ![Discord-Testers-Invite](http://invidget.switchblade.xyz/discord-testers?language=tr)
